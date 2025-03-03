@@ -1,3 +1,5 @@
+ipykernel
+ipympl
 matplotlib
+notebook
 numpy
-
